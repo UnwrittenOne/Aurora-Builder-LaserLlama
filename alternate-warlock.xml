@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="0.1.0" encoding="utf-8" ?>
 <elements>
     <info>
         <name></name>
         <update version="3.5.0">
-            <file name="class-savant.xml" url="https://raw.githubusercontent.com/Zenoverlordian/Aurora-Builder-LaserLlama/main/class-savant.xml" />
+            <file name="alternate-warlock.xml" url="https://raw.githubusercontent.com/Zenoverlordian/Aurora-Builder-LaserLlama/main/class-savant.xml" />
         </update>
     </info>
 
