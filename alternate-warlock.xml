@@ -1,13 +1,13 @@
-<?xml version="0.1.1" encoding="utf-8" ?>
+<?xml version="0.1.2" encoding="utf-8" ?>
 <elements>
     <info>
         <name></name>
-        <update version="0.1.1">
+        <update version="0.1.2">
             <file name="alternate-warlock.xml" url="https://raw.githubusercontent.com/Zenoverlordian/Aurora-Builder-LaserLlama/main/alternate-warlock.xml" />
         </update>
     </info>
 
-    <!--Version 0.1.1-->
+    <!--Version 0.1.2-->
     <element name="The Alternate Warlock" type="Class" source="laserllama's Alternate Warlock" id="ID_LASERLL_ALT_WARLOCK">
         <description>
     <p>An auburn-skinned, obsidian-horned tiefling stood, bathed in the light of a full moon, in the center of an intricately drawn ritual circle. As she chanted softly in a language lost to time, shadows swept across the face of the moon as an alien voice echoed forth from the spaces between the stars. It whispered offerings of unfathomable power in exchange for negligible acts of assistance toward nebulous goals. To these terms the maiden agreed and the shadows and the voice vanished, leaving only the glow of the moon and a pulsing, eldritch energy about her hands.</p>
@@ -17,40 +17,41 @@
     <h4>POWER IN SECRETS</h4>
     <p>Many Warlocks harbor an insatiable lust for the slightest sliver of knowledge, as they seek any road to power - and the shorter, the better. Abhorring the wasted hours of study and training other mages might pursue, they often prefer to steal or capture arcane powers within small, mystical trinkets to be unleashed on command. Unlike other spellcasters, this enables a Warlock to potentially wield the arts of multiple mystic traditions at once, allowing a problem to be resolved in many possible ways.</p>
     <p class="indent">There is always more power to be had, however, and most will stop at nothing to acquire more and more, risking ever more of themselves to preserve their edge over an ever-growing litany of rivals and opponents. But no matter, for the next bit of knowledge will make them the greatest ever known...</p>
-    <h4>INTENSELY FOCUSED</h4>
-    <p>Savants hyper-focus on their area of academic study. They obsess and learn all they can about their area of expertise. This drive fuels every savant, and they are willing to put aside political, religious, or cultural divisions in order to learn. Once they have learned all academia can teach them, savants strike out into the world to advance their field of study .</p>
-    <p class="indent">Often at great cost to themselves, a savant will not stop researching, experimenting, and theorizing until they have made an indelible mark on their academic discipline. Whether they realize it or not, the ultimate goal burning within the heart of every savant is to uncover some lost or previously unknown truth about the universe.</p>
-    <h4>CREATING A SAVANT</h4>
-    <p>When creating your savant, consider their upbringing and level of formal education. Were they the star pupil of the kingdom's university, or did they come from squal, fighting for any scrap of knowledge they could get their hands on? Consider why they became an adventurer rather than an academic. Have they advanced beyond study and look to the endless discoveries of a life of adventure?</p>
+    <h4>FELL CONTRACTS</h4>
+    <p>All Warlocks share a singular focus: the acquisition of incredible power. Despite this bond, the reasons for said pursuit are as varied as the beings chasing it. Be they seekers of the means to shield their loved ones, to attain great riches or status, or to exact grisly vengeance upon their foes, they are all inevitably bound to attract the attention of extraordinary beings who would find their power-lust useful.</p>
+    <p class="indent">Though rarely might two Warlocks come by their power through the same means, all are the result of some sort of bargain with one of these ominously powerful beings. Some boldly approach the source directly, offering an exchange of services. Some gain power by graft or wit, slyly deceiving their way to prominence. Others still steal power in some way, whether by capturing an entity and siphoning its energies or by some other dastardly means.</p>
+    <h4>BUILDING A WARLOCK</h4>
+    <p>The foremost consideration when creating a Warlock should be to determine the individual "Why?" of their situation. What is the power for? Do they fancy themselves a pragmatic philanthropist, or an up-and-coming tyrant? What lines will they cross or not? Are they simply being manipulated by a being of unfathomable intelligence?</p>
+    <p class="indent">Also, consider the form this acquired power takes. Do your Warlock's spells appear no different from those of any other trained mage or do they have unique or nefarious characteristics? Do these powers share a common style, or do they come from many different traditions and types of magic? To help with these decisions, consider how the being granting the power might be represented on the Material Plane.	    
     <h5 class="caption">QUICK BUILD</h5>
-    <p>You can make a savant quickly by following these suggestions. First, make Intelligence your highest ability score, followed by Dexterity. Second, choose the noble or sage background from the Player's Handbook.</p>
+    <p>You can make a Warlock quickly by following these suggestions. First, make Intelligence your highest ability score, followed by either Constitution or Dexterity. Second, choose the Charlatan background from the Player's Handbook. Last, take Eyes of the Rune Keeper and Mask of Many Faces as starting Eldritch Invocations.</p>
     <h2>CLASS FEATURES</h2>
-    <p>As an savant, you gain the following class features.</p>
+    <p>As a Warlock, you gain the following class features.</p>
     <h5 class="caption">HIT POINTS</h5>
     <ul class="unstyled">
-        <li><strong>Hit Dice:</strong> 1d8 per savant level</li>
+        <li><strong>Hit Dice:</strong> 1d8 per Warlock level</li>
         <li><strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier</li>
-        <li><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per savant level after 1st</li>
+        <li><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per Warlock level after 1st</li>
     </ul>
     <h5 class="caption">PROFICIENCIES</h5>
     <ul class="unstyled mb">
         <li><strong>Armor:</strong> Light armor</li>
-        <li><strong>Weapons:</strong>  Simple weapons, hand crossbows, rapiers, shortswords</li>
-        <li><strong>Tools:</strong> One set of artisan's tools of your choice</li>
+        <li><strong>Weapons:</strong> Simple weapons</li>
+        <li><strong>Tools:</strong> None</li>
     </ul>
     <ul class="unstyled">
         <li><strong>Saving Throws:</strong> Intelligence, Wisdom</li>
-        <li><strong>Skills:</strong> Choose two from Arcana, History, Insight, Investigation, Medicine, Nature, Perception, Persuasion, Religion, and Sleight of Hand</li>
+        <li><strong>Skills:</strong> Choose two from Arcana, Deception, History, Intimidation, Investigation, Medicine, Nature, and Religion</li>
     </ul>
     <h5 class="caption">EQUIPMENT</h5>
     <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
     <ul>
-        <li>(a) two simple weapons of your choice or (b) a rapier.</li>
-        <li>(a) a light crossbow and 20 bolts or (b) a shortsword.</li>
-        <li>one set of artisan's tools of your choice.</li>
-        <li>leather armor and a scholar's pack.</li>
+        <li>(a) a light crossbow and 20 bolts or (b) any simple weapon.</li>
+        <li>(a) a component pouch or (b) an arcane focus.</li>
+        <li>(a) a scholar's pack or (b) a dungeoneer's pack.</li>
+        <li>Leather armor, any simple weapon, and two daggers.</li>
     </ul>
-        <h5 class="caption">THE SAVANT</h5>
+        <h5 class="caption">THE ALTERNATE WARLOCK</h5>
         <table class="class-features">
             <thead>
                 <tr><td class="col-5">Level</td><td class="col-10">Proficiency Bonus</td><td class="col-60 left">Features</td></tr>
